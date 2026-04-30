@@ -1,4 +1,4 @@
-name: PRITAM GAMING
+name:PRITAM_GAMING
 
 on:
   workflow_dispatch:
